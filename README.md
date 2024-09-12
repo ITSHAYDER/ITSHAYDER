@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m HAYDER<br>- 👀 I’m interested in cybersec, building bots and websites, automation<br>- 👯 I’m looking to make a team<br>- 🔭 I’m currently working on my self<br>-  🎮 im a valorant player <br>
+- 👋 Hi, I’m HAYDER<br>- 👀 I’m interested in cybersec, ai and robotics, automation<br>- 👯 I’m looking to make a team<br>- 🔭 I’m currently working on my self<br>-  🎮 im a valorant player <br>
 
 
 ## 🌐 Socials:
